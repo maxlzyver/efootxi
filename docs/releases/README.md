@@ -1,9 +1,10 @@
 # 版本公告
 
-当前正式版：[V1.5 r1525 下载](https://www.mediafire.com/file/segehmvzur45tq0/efootxi-1.5-r1525.apk/file) · [发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.5)。V1.3 至 V1.4.1 可覆盖安装并保留存档；请勿卸载旧版或清除应用数据。
+当前正式版：[V1.6 下载](https://www.mediafire.com/file/948v8nxied600yj/efootxi-1.6.apk/file) · [发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.6)。
 
 | 版本 | 公告 |
 | --- | --- |
+| V1.6 | [中文](v1.6.md) · [English](v1.6-en.md) |
 | V1.5 | [中文](v1.5.md) · [English](v1.5-en.md) |
 | V1.4.1 | [中文](v1.4.1.md) · [English](v1.4.1-en.md) |
 | V1.4.0 | [中文](v1.4.0.md) · [English](v1.4.0-en.md) · [发布短讯](announcements/v1.4.0-zh.md) |

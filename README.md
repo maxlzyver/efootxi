@@ -2,15 +2,15 @@
 
 > **开发来源与修改许可**：efootxi 第一版基于 73@**7othree** 的版本开发，已取得修改许可；后续由 maxlzyver 持续修改、维护。
 
-## V1.5 正式版
+## V1.6 正式版
 
-**[下载 V1.5 r1525 APK（MediaFire）](https://www.mediafire.com/file/segehmvzur45tq0/efootxi-1.5-r1525.apk/file)** · [中文更新公告](docs/releases/v1.5.md) · [English release notes](docs/releases/v1.5-en.md) · [GitHub 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.5)
+**[下载 V1.6 安卓安装包（MediaFire）](https://www.mediafire.com/file/948v8nxied600yj/efootxi-1.6.apk/file)** · [中文更新公告](docs/releases/v1.6.md) · [English release notes](docs/releases/v1.6-en.md) · [GitHub 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.6)
 
-本版加入「2022 阿根廷」独立 DIY 卡池和更多 DIY 球员，修复球员搜索、编辑器、抽卡动画及部分专属动作；「大师联赛冲刺版」以 BETA 体验版开放。r1525 另修复 AI 组别与我的联赛开赛时的 `C_RTMC_9999` 报错。完整内容、致谢及已知限制见上方公告。
+V1.6 新增欧冠、世界杯、欧洲杯和局域网好友赛，更新大师联赛冲刺版、普通教练商店和球员卡库。完整内容、致谢与已知问题见更新公告。
 
-V1.3 至 V1.4.1 沿用同一包名与签名，可直接覆盖安装并保留存档。**请勿先卸载游戏或清除应用数据。**V1.2 及更早版本使用不同包名，不能按此方式继承旧存档。安装后首次准备所选补丁及本版新增资源需要联网；资源准备完整后可以断网进入游戏，下载中断可继续。
+V1.4、V1.4.1 和 V1.5 玩家可直接覆盖安装。安装后首次准备补丁和资源需要联网，资源齐全后可离线进入单机模式。
 
-最低要求 Android 9、64 位 ARM 设备；实际兼容情况以测试结果为准。下载地址指向 MediaFire；GitHub 发布页提供公告及文件校验信息，不托管本版 APK。
+最低要求为 Android 9、64 位 ARM 设备。APK 约 2.21 GB，资源通过 GitHub 下载。
 
 ## 版本与反馈
 

@@ -4,6 +4,8 @@
 
 ## V1.7 正式版
 
+**[MediaFire 下载 APK](https://www.mediafire.com/file/lkk0ovm82moc2z8/efootxi-1.7.apk/file)** · **[QQ 闪传下载 APK](https://qfile.qq.com/q/BHvWwO2xtC)**
+
 [中文完整公告](docs/releases/v1.7.md) · [English release notes](docs/releases/v1.7-en.md) · [V1.7 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.7)
 
 V1.7 完善世界杯、欧洲杯和欧冠的淘汰赛、赛程与统计，修复大师联赛冲刺版换帅和协同值问题，补齐俱乐部与联赛关联，并更新球员卡库和教练。完整公告收录 1.6 重点回顾以及补录卡、新卡和教练名单。

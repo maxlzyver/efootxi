@@ -1,6 +1,6 @@
 # 版本公告
 
-当前正式版为 [V1.7](https://github.com/maxlzyver/efootxi/releases/tag/v1.7)。安装步骤见[安装与资源更新](../resource-updates.md)。
+当前正式版为 [V1.7](https://github.com/maxlzyver/efootxi/releases/tag/v1.7)。[MediaFire 下载](https://www.mediafire.com/file/lkk0ovm82moc2z8/efootxi-1.7.apk/file) · [QQ 闪传下载](https://qfile.qq.com/q/BHvWwO2xtC) · [安装说明](../resource-updates.md)
 
 | 版本 | 公告 |
 | --- | --- |

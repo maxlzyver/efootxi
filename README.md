@@ -2,15 +2,17 @@
 
 > **开发来源与修改许可**：efootxi 第一版基于 73@**7othree** 的版本开发，已取得修改许可；后续由 maxlzyver 持续修改、维护。
 
-## V1.6 正式版
+## V1.7 正式版
 
-**[下载 V1.6 安卓安装包（MediaFire）](https://www.mediafire.com/file/948v8nxied600yj/efootxi-1.6.apk/file)** · [中文更新公告](docs/releases/v1.6.md) · [English release notes](docs/releases/v1.6-en.md) · [GitHub 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.6)
+[中文完整公告](docs/releases/v1.7.md) · [English release notes](docs/releases/v1.7-en.md) · [V1.7 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.7)
 
-V1.6 新增欧冠、世界杯、欧洲杯和局域网好友赛，更新大师联赛冲刺版、普通教练商店和球员卡库。完整内容、致谢与已知问题见更新公告。
+V1.7 完善世界杯、欧洲杯和欧冠的淘汰赛、赛程与统计，修复大师联赛冲刺版换帅和协同值问题，补齐俱乐部与联赛关联，并更新球员卡库和教练。完整公告收录 1.6 重点回顾以及补录卡、新卡和教练名单。
 
-V1.4、V1.4.1 和 V1.5 玩家可直接覆盖安装。安装后首次准备补丁和资源需要联网，资源齐全后可离线进入单机模式。
+V1.6 玩家可覆盖安装 efootxi-1.7.apk 保留存档。首次启动请联网准备资源，完成后可离线进入单机模式。
 
-最低要求为 Android 9、64 位 ARM 设备。APK 约 2.21 GB，资源通过 GitHub 下载。
+最低要求为 Android 9 和 64 位 ARM 设备。V1.7 安装包大小约 2.23 GB（2.07 GiB），资源通过 GitHub 下载。安装包 SHA-256 见发布页。
+
+[V1.6 安装包（MediaFire）](https://www.mediafire.com/file/948v8nxied600yj/efootxi-1.6.apk/file) · [V1.6 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.6)
 
 ## 版本与反馈
 

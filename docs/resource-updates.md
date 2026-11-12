@@ -1,9 +1,9 @@
 # 安装、资源下载与更新
 
-[下载 V1.6 正式版](https://www.mediafire.com/file/948v8nxied600yj/efootxi-1.6.apk/file)。最低要求 Android 9、64 位 ARM 设备，实际兼容情况以测试结果为准。安装后按页面提示选择补丁并完成资源准备，无需手动搬运或解压；完整资源准备后可离线游玩。
+[V1.7 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.7)提供完整中英文公告和安装包 SHA-256。最低要求为 Android 9 和 64 位 ARM 设备。安装后首次启动请联网，按页面提示完成补丁及资源准备。资源齐全后可离线游玩。
 
-V1.4、V1.4.1 和 V1.5 可覆盖更新，保留存档；请勿先卸载或清除应用数据。V1.2 及更早版本需独立安装，不继承旧存档。版本内容与限制见 [V1.6 完整公告](releases/v1.6.md)，历史内容见 [版本公告目录](releases/README.md)。
+V1.6 玩家可直接覆盖安装 efootxi-1.7.apk，保留原有存档。升级时请保留已安装的应用与数据。V1.4 至 V1.5 玩家可先按 [V1.6 升级说明](releases/v1.6.md#升级说明)更新。版本内容见 [V1.7 完整公告](releases/v1.7.md)和[历史公告](releases/README.md)。
 
-APK 由 MediaFire 提供，游戏资源来自 GitHub。下载慢或失败时，请使用稳定可用的网络，保留已有下载进度；有效资源会校验复用，只补齐缺失或损坏的内容。GitHub [V1.6 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.6)提供公告及文件校验信息。
+游戏资源通过 GitHub 下载。下载慢或失败时请保留已有进度，在网络稳定后继续。已通过校验的资源会复用，缺失或损坏的内容会重新下载。局域网好友赛双方请使用相同版本。
 
 下载异常请保留已有应用及下载进度，反馈完整提示、版本、设备及复现步骤至 [反馈邮箱](mailto:lzyuan666666@gmail.com)。

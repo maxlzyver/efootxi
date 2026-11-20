@@ -2,19 +2,19 @@
 
 > **开发来源与修改许可**：efootxi 第一版基于 73@**7othree** 的版本开发，已取得修改许可；后续由 maxlzyver 持续修改、维护。
 
-## V1.8 正式版
+## V1.8.1 正式版
 
-**[MediaFire 下载](https://www.mediafire.com/file/e8be0unwx61b370/efootxi-1.8.apk/file)** · **[QQ 闪传下载](https://qfile.qq.com/q/6vU1sbwqQg)** · **[TG 频道下载](https://t.me/efootxi)**
+**[MediaFire 下载](https://www.mediafire.com/file/kp2ft2wlq6ez3rb/efootxi-1.8.1.apk/file)** · **[QQ 闪传下载](https://qfile.qq.com/q/v0rcoBA9zM)** · **[TG 频道下载](https://t.me/efootxi)**
 
-[中文完整公告](docs/releases/v1.8.md) · [English release notes](docs/releases/v1.8-en.md) · [安装指南 / Installation guide](docs/releases/v1.8-install.md)
+[1.7 → 1.8 中文公告](docs/releases/v1.8.md) · [1.7 → 1.8 English release notes](docs/releases/v1.8-en.md) · [1.8.1 安装指南 / Installation guide](docs/releases/v1.8.1-install.md)
 
 1.8 修复大师联赛冲刺版手操开赛，三大杯赛支持随时调整难度和整届重开，并提供新版赛事概况和球员编辑器。本次公告附 55 张官方卡和 15 张 DIY 卡的完整名单。
 
-1.7 玩家可覆盖安装 `efootxi-1.8.apk` 保留存档。首次启动请联网准备资源，完成后可离线游玩单机模式。
+1.8 玩家可覆盖安装 `efootxi-1.8.1.apk` 保留存档并复用已下载资源。首次启动请联网准备资源，完成后可离线游玩单机模式。
 
-最低要求为 Android 9 和 64 位 ARM 设备。安装包大小为 2.28 GB（2.12 GiB），资源通过 GitHub 下载。[1.8 发布页与安装包 SHA-256](https://github.com/maxlzyver/efootxi/releases/tag/v1.8)
+最低要求为 Android 9 和 64 位 ARM 设备。安装包大小约 2.12 GiB，资源通过 GitHub 下载。[1.8.1 发布页与安装包 SHA-256](https://github.com/maxlzyver/efootxi/releases/tag/v1.8.1)
 
-[1.7 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.7) · [1.6 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.6)
+[1.8 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.8) · [1.7 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.7) · [1.6 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.6)
 
 ## 版本与反馈
 

@@ -1,5 +1,11 @@
 # 安装、资源下载与更新
 
+请按 1.8 双语指南下载、覆盖安装并准备资源。 [1.8 安装指南 / Installation guide](releases/v1.8-install.md)
+
+For 1.8 downloads, in-place upgrades, and resource setup, follow the bilingual guide. [1.8 Installation guide](releases/v1.8-install.md#english)
+
+## V1.7 安装参考
+
 [MediaFire 下载 V1.7 APK](https://www.mediafire.com/file/lkk0ovm82moc2z8/efootxi-1.7.apk/file) · [QQ 闪传下载 V1.7 APK](https://qfile.qq.com/q/BHvWwO2xtC)
 
 [V1.7 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.7)提供完整中英文公告和安装包 SHA-256。最低要求为 Android 9 和 64 位 ARM 设备。安装后首次启动请联网，按页面提示完成补丁及资源准备。资源齐全后可离线游玩。

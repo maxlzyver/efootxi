@@ -4,7 +4,7 @@
 
 ## V1.8 正式版
 
-**[1.8 安装包下载与校验](https://github.com/maxlzyver/efootxi/releases/tag/v1.8)**
+**[1.8 安装包下载与校验 · MediaFire / QQ 闪传](https://github.com/maxlzyver/efootxi/releases/tag/v1.8)** · **[频道下载](https://t.me/efootxi)**
 
 [中文完整公告](docs/releases/v1.8.md) · [English release notes](docs/releases/v1.8-en.md) · [安装指南 / Installation guide](docs/releases/v1.8-install.md)
 
@@ -20,7 +20,7 @@
 
 - [版本公告目录](docs/releases/README.md)：当前版本及历史中文、英文公告。
 - [安装与资源更新](docs/resource-updates.md)：覆盖安装、资源准备和反馈说明。
-- [Telegram 发布频道 @efootxi](https://t.me/efootxi) · [反馈邮箱](mailto:lzyuan666666@gmail.com)
+- [Telegram 发布与反馈频道 @efootxi](https://t.me/efootxi)
 
 反馈请附游戏版本、机型、Android 版本、具体卡片版本、操作步骤及截图或录屏；启动报错请提供完整错误文字，并保留应用数据。
 

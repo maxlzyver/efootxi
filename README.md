@@ -4,7 +4,7 @@
 
 ## V1.8.1 正式版
 
-**[1.8.1 下载与校验](https://github.com/maxlzyver/efootxi/releases/tag/v1.8.1)** · **[TG 频道](https://t.me/efootxi)**
+**[MediaFire 下载](https://www.mediafire.com/file/kp2ft2wlq6ez3rb/efootxi-1.8.1.apk/file)** · **[QQ 闪传下载](https://qfile.qq.com/q/v0rcoBA9zM)** · **[TG 频道下载](https://t.me/efootxi)**
 
 [1.7 → 1.8 中文公告](docs/releases/v1.8.md) · [1.7 → 1.8 English release notes](docs/releases/v1.8-en.md) · [1.8.1 安装指南 / Installation guide](docs/releases/v1.8.1-install.md)
 

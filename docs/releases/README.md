@@ -1,9 +1,10 @@
 # 版本公告
 
-当前正式版为 [1.8](https://github.com/maxlzyver/efootxi/releases/tag/v1.8)。[安装指南 / Installation guide](v1.8-install.md)
+当前正式版为 [1.8.1](https://github.com/maxlzyver/efootxi/releases/tag/v1.8.1)。[安装指南 / Installation guide](v1.8.1-install.md)
 
 | 版本 | 公告 |
 | --- | --- |
+| V1.8.1 | [GitHub 发布页 / Release](https://github.com/maxlzyver/efootxi/releases/tag/v1.8.1) |
 | V1.8 | [中文](v1.8.md) · [English](v1.8-en.md) |
 | V1.7 | [中文](v1.7.md) · [English](v1.7-en.md) |
 | V1.6 | [中文](v1.6.md) · [English](v1.6-en.md) |

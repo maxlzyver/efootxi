@@ -1,8 +1,8 @@
 # 安装、资源下载与更新
 
-请按 1.8 双语指南下载、覆盖安装并准备资源。 [1.8 安装指南 / Installation guide](releases/v1.8-install.md)
+请按 1.8.1 双语指南下载、覆盖安装并准备资源。[1.8.1 安装指南 / Installation guide](releases/v1.8.1-install.md)
 
-For 1.8 downloads, in-place upgrades, and resource setup, follow the bilingual guide. [1.8 Installation guide](releases/v1.8-install.md#english)
+For 1.8.1 downloads, in-place upgrades and resource setup, follow the bilingual guide. [1.8.1 Installation guide](releases/v1.8.1-install.md#english)
 
 ## V1.7 安装参考
 

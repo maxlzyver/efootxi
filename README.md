@@ -4,7 +4,7 @@
 
 ## V1.8 正式版
 
-**[1.8 安装包下载与校验 · MediaFire / QQ 闪传](https://github.com/maxlzyver/efootxi/releases/tag/v1.8)** · **[频道下载](https://t.me/efootxi)**
+**[MediaFire 下载](https://www.mediafire.com/file/e8be0unwx61b370/efootxi-1.8.apk/file)** · **[QQ 闪传下载](https://qfile.qq.com/q/6vU1sbwqQg)** · **[TG 频道下载](https://t.me/efootxi)**
 
 [中文完整公告](docs/releases/v1.8.md) · [English release notes](docs/releases/v1.8-en.md) · [安装指南 / Installation guide](docs/releases/v1.8-install.md)
 
@@ -12,7 +12,7 @@
 
 1.7 玩家可覆盖安装 `efootxi-1.8.apk` 保留存档。首次启动请联网准备资源，完成后可离线游玩单机模式。
 
-最低要求为 Android 9 和 64 位 ARM 设备。安装包大小为 2.28 GB（2.12 GiB），资源通过 GitHub 下载。安装包 SHA-256 见发布页。
+最低要求为 Android 9 和 64 位 ARM 设备。安装包大小为 2.28 GB（2.12 GiB），资源通过 GitHub 下载。[1.8 发布页与安装包 SHA-256](https://github.com/maxlzyver/efootxi/releases/tag/v1.8)
 
 [1.7 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.7) · [1.6 发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.6)
 
